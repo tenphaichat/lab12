@@ -1,15 +1,3 @@
-================================================================================
-BÁO CÁO BÀI TẬP THỰC HÀNH LAB 12 - HỌC PHẦN LẬP TRÌNH .NET (IT3212)
-ĐẠI HỌC CÔNG NGHỆ ĐÔNG Á (EAUT) - KHOA CÔNG NGHỆ THÔNG TIN
-================================================================================
-Sinh viên thực hiện : Phan Văn Thắng
-Mã số sinh viên     : 24002545
-Lớp                 : IT3212
-Ngày sinh           : 26/03/2006
-Chủ đề Lab 12       : MASTER-DETAIL, TRANSACTION VÀ HOÀN THIỆN MÔ HÌNH 3 LỚP
-Cơ sở dữ liệu       : QLSinhVien (Microsoft SQL Server / LocalDB)
-================================================================================
-
 I. CẤU TRÚC THƯ MỤC DỰ ÁN
 --------------------------------------------------------------------------------
 lab12/
